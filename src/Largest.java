@@ -16,5 +16,8 @@ public class Largest {
         int[]arr={1,2,4,56,8};
         int n= arr.length;
         System.out.println(getlargest(arr,n));
+
     }
 }
+
+//output:3(index)
